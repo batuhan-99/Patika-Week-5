@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\bin\Debug\net8.0\Pratik-TryCatch.exe
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\bin\Debug\net8.0\Pratik-TryCatch.deps.json
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\bin\Debug\net8.0\Pratik-TryCatch.runtimeconfig.json
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\bin\Debug\net8.0\Pratik-TryCatch.dll
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\bin\Debug\net8.0\Pratik-TryCatch.pdb
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\obj\Debug\net8.0\Pratik-TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\obj\Debug\net8.0\Pratik-TryCatch.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\obj\Debug\net8.0\Pratik-TryCatch.AssemblyInfo.cs
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\obj\Debug\net8.0\Pratik-TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\obj\Debug\net8.0\Pratik-TryCatch.dll
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\obj\Debug\net8.0\refint\Pratik-TryCatch.dll
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\obj\Debug\net8.0\Pratik-TryCatch.pdb
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\obj\Debug\net8.0\Pratik-TryCatch.genruntimeconfig.cache
+C:\Users\asus\Desktop\Pratik-TryCatch\Pratik-TryCatch\obj\Debug\net8.0\ref\Pratik-TryCatch.dll
